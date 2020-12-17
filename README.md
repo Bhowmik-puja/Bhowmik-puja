@@ -1,4 +1,4 @@
-### Hi there, I'm Puja 👋
+### Hi there, I'm Puja Bhowmik 👋
 
 <!--
 **Bhowmik-puja/Bhowmik-puja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
