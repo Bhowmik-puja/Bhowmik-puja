@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+<img width="550px" alt="Puja Bhowmik Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Bhowmik-puja&show_icons=true"/>
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&card_width=550)](https://github.com/Bhowmik-puja/Bhowmik-puja)
