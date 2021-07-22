@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <br />
-[![Puja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhowmik-puja)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&card_width=550)](https://github.com/Bhowmik-puja/Bhowmik-puja)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bhowmik-puja&count_private=true&theme=tokyonight&showicons=true)]();
