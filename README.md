@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&langs_count=5&theme=tokyonight)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&langs_count=5&theme=tokyonight)]() -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bhowmik-puja&count_private=true&theme=tokyonight&showicons=true)]();
