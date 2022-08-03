@@ -1,6 +1,6 @@
 ### Hi there, I'm Puja Bhowmik 👋
 <!-- - 🌱 I’m currently learning Web Dev -->
-- 🔭 I’m currently working on a research paper
+- 🌱 I’m currently learning how to survive
 <!--
 **Bhowmik-puja/Bhowmik-puja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
