@@ -1,4 +1,4 @@
-### Hi there, I'm Puja Bhowmik 👋
+<!-- ### Hi there, I'm Puja Bhowmik 👋
 <!-- - 🌱 I’m currently learning Web Dev -->
 - 🌱 I’m currently learning how to survive
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
+<br /> -->
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhowmik-puja&langs_count=5&theme=tokyonight)]() -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bhowmik-puja&count_private=true&theme=tokyonight&showicons=true)]();
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bhowmik-puja&count_private=true&theme=tokyonight&showicons=true)](); -->
