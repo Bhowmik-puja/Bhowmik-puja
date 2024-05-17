@@ -1,5 +1,5 @@
 -- ### Hi there, I'm Puja Bhowmik 👋
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning ASP dot net core
 <!--
 **Bhowmik-puja/Bhowmik-puja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
